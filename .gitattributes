@@ -1,0 +1,8 @@
+# document is also part of this project
+docs/** linguist-documentation=false
+
+# configure linguist for specific file types
+*.java linguist-language=Java
+*.py linguist-language=Python
+*.sql linguist-detectable=true linguist-language=HiveQL
+*.tex linguist-language=TeX
