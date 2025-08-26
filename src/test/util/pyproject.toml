@@ -1,0 +1,8 @@
+[project]
+name = "util"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "aioconsole>=0.8.1",
+    "pylint>=3.3.8",
+]
